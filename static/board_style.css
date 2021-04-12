@@ -1,0 +1,23 @@
+#container{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table tr td{
+    width: 125px;
+    height: 125px;
+}
+.red{
+    background-color: red;
+}
+.black{
+    background-color: black;
+}
+td {
+    margin: 0px;
+}
+tr {
+    margin: 0px
+}
